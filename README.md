@@ -14,6 +14,10 @@ If you want to contribute, feel free!
 ## Tests
 
 - https://www.grc.com/dns/dns.htm (button at the bottom)
+- https://www.perfect-privacy.com/de/tests/dns-leaktest
+- https://www.dnsleaktest.com/
+- https://tenta.com/test/
+- https://www.experte.de/vpn-leak
 
 ## Readings
 

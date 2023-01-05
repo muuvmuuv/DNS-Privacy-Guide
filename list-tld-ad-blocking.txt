@@ -1,0 +1,5 @@
+dns.adguard-dns.com
+adblock.doh.mullvad.net
+dnsforge.de
+fdns2.dismail.de
+dot-de.blahdns.com
