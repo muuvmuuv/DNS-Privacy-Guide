@@ -6,7 +6,7 @@ This is just a list for me (or anyone else), to collect links and lists for DoT 
 
 You have two options:
 
-1. With ad-blocking, sphoofing etc.
+1. With ad-blocking, spoofing etc.
 2. Without, just more privacy
 
 If you want to contribute, feel free!
