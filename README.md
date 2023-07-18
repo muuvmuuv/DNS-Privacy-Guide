@@ -23,3 +23,6 @@ If you want to contribute, feel free!
 
 - https://www.kuketz-blog.de/pi-hole-adaway-netguard-und-co-wie-dns-blocking-mit-speziellen-domains-leicht-umgangen-werden-kann/
 - https://www.privacy-handbuch.de/handbuch_93d.htm
+- https://www.golem.de/news/1-1-1-1-cloudflares-dns-server-geht-live-1804-133629.html
+- https://one.one.one.one/
+- https://www.quad9.net/support/faq/#edns

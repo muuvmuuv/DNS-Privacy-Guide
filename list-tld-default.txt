@@ -1,6 +1,8 @@
-dns.quad9.net
-unfiltered.adguard-dns.com
 doh.mullvad.net
+dns10.quad9.net
+dns.njal.la
+unfiltered.adguard-dns.com
 dns.digitale-gesellschaft.ch
 dot.ffmuc.net
-dns.njal.la
+anycast.uncensoreddns.org
+one.one.one.one
